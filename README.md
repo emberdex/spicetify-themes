@@ -11,9 +11,9 @@ A collection of Spicetify themes. Use these to jazz up your Spotify client.
 
 ## Themes
 
-### Phosphor-Orange
+### Phosphor
 
-A simple, warm orange colour scheme based on the default Spicetify theme.
+A simple variety of colour schemes based on the default Spicetify theme, with some functional tweaks.
 
 #### Extra features
 
@@ -23,8 +23,8 @@ A simple, warm orange colour scheme based on the default Spicetify theme.
 
 | Name | Complete? |
 |--|--|
-| Dark | ✅ |
+| Orange | ✅ |
 
 #### Screenshots
 
-![Screenshot of the Phosphor-Orange theme](/.screenshots/Phosphor-Orange.png?raw=true "Phosphor Orange with Dark colour scheme")
+![Screenshot of the Phosphor theme with Orange colour scheme.](/.screenshots/Phosphor-Orange.png?raw=true "Screenshot of the Phosphor theme with Orange colour scheme.")
