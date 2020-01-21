@@ -573,19 +573,19 @@ span.glue-page-header__title-text {
 .progress-container .inner {
 	top: 0 !important;
 	margin-top: 0 !important;
-	height: 10px;
+	height: 12px;
 }
 
 .progress-container .progress-bar-wrapper {
 	top: 0 !important;
-	height: 10px;
+	height: 12px;
 }
 
 .progress-container {
 	position: fixed !important;
 	width: 100% !important;
 	bottom: var(--bar-height) !important;
-	margin : 0 !important;
+	margin: 0 !important;
 }
 
 .progress-container .inner {
@@ -708,6 +708,8 @@ body.remotebar .view-player .player-bar-wrapper {
 }
 
 /* Fix the handle for the progressbar being misaligned when the height is changed. */
-#player-progressbar .handle {
-    top: 0;
+#player-progressbar .progress-bar .handle {
+	top: 0;
+	height: 14px;
+	width: 14px;
 }
