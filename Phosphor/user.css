@@ -133,7 +133,8 @@
 .view-player .player-controls-container .controls .button-play{
 	height:50px !important;
 	border-radius:50px !important;
-	background: transparent !important;
+	background: var(--modspotify_main_fg) !important;
+	color: var(--modspotify_main_bg) !important;
 	box-shadow:0 0 0 0 !important;
 	width:50px !important;
 	overflow: visible !important;
@@ -713,3 +714,5 @@ body.remotebar .view-player .player-bar-wrapper {
 	height: 14px;
 	width: 14px;
 }
+
+/* Invert the play button */
